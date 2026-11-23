@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/jpDev05?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-13-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-23-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
